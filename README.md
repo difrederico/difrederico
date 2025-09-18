@@ -25,7 +25,7 @@ Um projeto de estudo de caso que apliquei meus conhecimentos de banco de dados e
 
 * **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Seaborn, Oracle Database
 
-#### **[Nome do Projeto da Graduação] - Cognikids Backend**
+#### ** Cognikids Backend**
 Como parte da minha segunda graduação, desenvolvi um backend utilizando uma arquitetura robusta para um aplicativo. Neste projeto, foquei em aplicar boas práticas de desenvolvimento e orquestração de ambiente para garantir escalabilidade e eficiência.
 
 * **Tecnologias Utilizadas:** Python, Docker, Docker Compose, Flask, MongoDB
