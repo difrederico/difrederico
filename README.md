@@ -1,14 +1,14 @@
 # Olá, eu sou o Frederico! 👋
 
-### Desenvolvedor Back-end | Especialista em IA & Engenharia de Dados em formação
+### Desenvolvedor Back-end | Especialista em IA & Engenharia de Dados
 
 Atualmente focado em transformar desafios de infraestrutura e dados em soluções inteligentes no **SENAI FATESG**. Minha especialidade é construir o "motor" do software: onde a lógica encontra a Inteligência Artificial e o processamento de dados em tempo real.
 
 ---
 
-### 🌟 Projeto em Destaque: CogniKids
+### 🦄 Projeto em Destaque: CogniKids
 
-**[Acesse o Repositório do CogniKids](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa/PI/CogniKids)**
+[![CogniKids](https://img.shields.io/badge/🦄_CogniKids-8A2BE2?style=for-the-badge&logoColor=white)](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa/PI/CogniKids)
 
 O **CogniKids** é um ecossistema de monitoramento multimodal em tempo real desenvolvido para oferecer suporte proativo a alunos com **TEA (Transtorno do Espectro Autista)** e **TDAH**. O sistema utiliza sensores biométricos e wearables para detectar precocemente sinais de sobrecarga sensorial ou crises emocionais.
 
