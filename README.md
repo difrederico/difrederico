@@ -1,8 +1,21 @@
 # Olá, eu sou o Frederico! 👋
 
-### Desenvolvedor Back-end | Especialista em IA & Engenharia de Dados
+### Desenvolvedor Back-end | Especialista em IA & Engenharia de Dados em formação
 
-Atualmente focado em transformar desafios de infraestrutura e dados em soluções inteligentes no **SENAI FATESG**. Minha especialidade é o "motor" do software: onde a lógica encontra a Inteligência Artificial.
+Atualmente focado em transformar desafios de infraestrutura e dados em soluções inteligentes no **SENAI FATESG**. Minha especialidade é construir o "motor" do software: onde a lógica encontra a Inteligência Artificial e o processamento de dados em tempo real.
+
+---
+
+### 🌟 Projeto em Destaque: CogniKids
+
+**[Acesse o Repositório do CogniKids](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa/PI/CogniKids)**
+
+O **CogniKids** é um ecossistema de monitoramento multimodal em tempo real desenvolvido para oferecer suporte proativo a alunos com **TEA (Transtorno do Espectro Autista)** e **TDAH**. O sistema utiliza sensores biométricos e wearables para detectar precocemente sinais de sobrecarga sensorial ou crises emocionais.
+
+**Minha contribuição técnica central:**
+* **Inteligência Preditiva:** Implementação e refinamento de algoritmos de **Machine Learning (como Random Forest)** para a detecção precoce de crises, transformando dados biométricos brutos em alertas acionáveis.
+* **Arquitetura IoT & Back-end:** Estruturação da comunicação entre dispositivos wearables e o servidor, garantindo baixa latência no processamento de sinais vitais e integridade dos dados.
+* **Suporte Colaborativo:** Desenvolvimento da lógica de notificações que integra família e escola, criando uma rede de intervenção proativa baseada em evidências de dados.
 
 ---
 
@@ -16,18 +29,11 @@ Atualmente focado em transformar desafios de infraestrutura e dados em soluçõe
 
 ---
 
-### 📂 No que estou trabalhando:
+### 📂 Outras frentes de atuação:
 
-- **Inteligência Artificial:** Implementando arquiteturas RAG e integração com LLMs para análise de dados complexos.
-- **Engenharia de Dados:** Otimização de bancos legados e fluxos de ETL para alta performance.
-- **Arquitetura:** Construção de microsserviços escaláveis e ambientes conteinerizados.
-
----
-
-### 🔗 Evidências Técnicas e Projetos
-
-- 🧠 **[Laboratório de IA na FATESG](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa)**: Lógica computacional e Machine Learning.
-- ⚙️ **[Repositório de Back-end](https://github.com/difrederico?tab=repositories)**: Automações, APIs e tratamentos de dados.
+- **Engenharia de Dados:** Otimização de bancos legados (Firebird/PostgreSQL) e fluxos de ETL para alta performance e integração com modelos de IA.
+- **Arquitetura de Sistemas:** Construção de microsserviços escaláveis, utilizando Docker para padronização de ambientes e deployment.
+- **[Laboratório de IA (FATESG)](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa)**: Pesquisa e implementação de lógica computacional, manipulação de tensores e fundamentos de Machine Learning.
 
 ---
 
@@ -35,3 +41,6 @@ Atualmente focado em transformar desafios de infraestrutura e dados em soluçõe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-l-rosa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:frederico_rosa_l@hotmail.com)
+
+---
+*Este perfil reflete minha evolução contínua entre a fundamentação acadêmica e a entrega de valor real através da tecnologia.*
