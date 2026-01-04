@@ -8,7 +8,7 @@ Atualmente, atuo como **Bolsista de Inovação no SENAI FATESG**, onde foco em c
 
 ### 🛠️ No que tenho trabalhado:
 
-- **Inteligência Artificial & LLMs:** Implementação de arquiteturas RAG (Retrieval-Augmented Generation) com AWS Bedrock e bancos vetoriais (Qdrant).
+- **Inteligência Artificial & LLMs:** Implementação de arquiteturas RAG (Retrieval-Augmented Generation) com AWS Bedrock e integração de bancos vetoriais (Qdrant).
 - **Engenharia de Dados:** Extração e tratamento de dados (ETL) em sistemas legados SQL (Firebird/PostgreSQL) para alimentação de modelos de IA.
 - **Arquitetura de Software:** Desenvolvimento de microsserviços escaláveis utilizando Python e conteinerização com Docker.
 
