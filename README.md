@@ -1,40 +1,50 @@
-# Olá, sou Frederico Lemes Rosa 👋
+# Olá, eu sou o Frederico! 👋
 
-Com uma sólida formação em **Análise de Sistemas** (2012) e **Pós-Graduação em Banco de Dados** (2015), estou em constante evolução e me aprofundando na fascinante área de **Inteligência Artificial**. Movido pela paixão por transformar dados em insights valiosos, estou fortalecendo minhas habilidades com o novo curso de IA para atuar ativamente na resolução de problemas complexos. Meu objetivo é me tornar um **Cientista de dados** capaz de impulsionar decisões estratégicas por meio da tecnologia.
+### Desenvolvedor Back-end | Especialista em IA & Engenharia de Dados em formação
 
----
-
-### 👨‍💻 Habilidades Técnicas
-
-Minha experiência e estudos me proporcionaram um conjunto robusto de competências que me permitem trabalhar com dados de ponta a ponta.
-
-* **Linguagens de Programação:** Python, C#, Java
-* **Banco de Dados:** SQL (intermediário), Oracle Database, Modelagem Relacional, DML e DDL
-* **Habilidades em Dados:** Análise Exploratória de Dados (EDA), Visualização de Dados, Machine Learning, Estatística Aplicada, Automação com Python
-* **Ferramentas e Bibliotecas:** Pandas, Matplotlib, Seaborn, Power BI, Jupyter Notebook, VS Code, Git
-* **Ambientes e Orquestração:** Docker, Docker Compose, Flask, MongoDB
+Atualmente, atuo como **Bolsista de Inovação no SENAI FATESG**, onde foco em construir soluções de Back-end robustas e integrar modelos de Inteligência Artificial Generativa para resolver problemas complexos de dados.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ No que tenho trabalhado:
 
-Aqui estão alguns projetos que demonstram minhas habilidades na prática.
-
-#### **Análise Exploratória de Dados (EDA) para Risco de Crédito**
-Um projeto de estudo de caso que apliquei meus conhecimentos de banco de dados e Python para analisar uma base de dados Oracle. Meu objetivo foi identificar os principais fatores preditores de inadimplência, comprovando a eficácia do score de crédito e do histórico de pagamentos como indicadores de risco.
-
-* **Tecnologias Utilizadas:** Python, Pandas, Matplotlib, Seaborn, Oracle Database
-
-#### ** Cognikids Backend**
-Como parte da minha segunda graduação, desenvolvi um backend utilizando uma arquitetura robusta para um aplicativo. Neste projeto, foquei em aplicar boas práticas de desenvolvimento e orquestração de ambiente para garantir escalabilidade e eficiência.
-
-* **Tecnologias Utilizadas:** Python, Docker, Docker Compose, Flask, MongoDB
+- **Inteligência Artificial & LLMs:** Implementação de arquiteturas RAG (Retrieval-Augmented Generation) com AWS Bedrock e bancos vetoriais (Qdrant).
+- **Engenharia de Dados:** Extração e tratamento de dados (ETL) em sistemas legados SQL (Firebird/PostgreSQL) para alimentação de modelos de IA.
+- **Arquitetura de Software:** Desenvolvimento de microsserviços escaláveis utilizando Python e conteinerização com Docker.
 
 ---
 
-### 📧 Conecte-se comigo
+### 🚀 Tecnologias e Ferramentas:
 
-Estou sempre aberto a novas oportunidades e conexões.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-* **LinkedIn:** [https://www.linkedin.com/in/frederico-l-rosa/]
-* **E-mail:** [frederico.lemesrosa@gmail.com]
+---
+
+### 📂 Projetos em Destaque:
+
+- **[Laboratório de IA Acadêmico](https://github.com/Willgnner-Santos/Fatesg-IA-2/tree/homework/Frederico-Lemes-Rosa):** Implementações de lógica computacional, manipulação de tensores e algoritmos de Machine Learning desenvolvidos na FATESG.
+- **Sistemas de Integração de Dados:** Scripts de alta performance para tratamento de Big Data e conectores para bancos de dados legados.
+
+---
+
+### 📈 Estatísticas:
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=difrederico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=difrederico&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Como me encontrar:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/frederico-l-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:frederico_rosa_l@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
